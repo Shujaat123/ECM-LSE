@@ -1,2 +1,2 @@
 # ECM-LSE
-ECM-LSE: Extracellular Matrix Proteins Prediction Using Latent Space Encoding of Composition of k-Spaced Amino Acid Pairs
+Google Collab implementation code for: ECM-LSE: Prediction of Extracellular Matrix Proteins Using Deep Latent Space Encoding of Composition of k-Spaced Amino Acid Pairs.
